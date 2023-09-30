@@ -37,7 +37,7 @@ define gui.about = _p("""
 ## постройке дистрибутивов. Оно должно содержать текст формата ASCII и не должно
 ## содержать пробелы, двоеточия и точки с запятой.
 
-define build.name = "FirstGame"
+define build.name = "The Natural Light of the Mind"
 
 
 ## Звуки и музыка ##############################################################
@@ -46,9 +46,9 @@ define build.name = "FirstGame"
 ## игроку по умолчанию. Установка одной из них в False скроет соответствующий
 ## микшер.
 
-define config.has_sound = True
-define config.has_music = True
-define config.has_voice = True
+define config.has_sound = False
+define config.has_music = False
+define config.has_voice = False
 
 
 ## Чтобы разрешить игроку тестировать громкость на звуковом или голосовом
@@ -144,7 +144,7 @@ default preferences.afm_time = 15
 ## Этот параметр обычно не должен изменяться, а если и изменился, должен быть
 ## текстовой строчкой, а не выражением.
 
-define config.save_directory = "FirstGame-1696057925"
+define config.save_directory = "The-Natural-Light-of-the-Mind-1696057925"
 
 
 ## Иконка ######################################################################
