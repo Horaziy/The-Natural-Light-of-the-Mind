@@ -37,7 +37,7 @@ define gui.about = _p("""
 ## постройке дистрибутивов. Оно должно содержать текст формата ASCII и не должно
 ## содержать пробелы, двоеточия и точки с запятой.
 
-define build.name = "The Natural Light of the Mind"
+define build.name = "The-Natural-Light-of-the-Mind"
 
 
 ## Звуки и музыка ##############################################################
