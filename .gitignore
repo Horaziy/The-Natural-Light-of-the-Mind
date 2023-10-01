@@ -293,3 +293,9 @@ CubismSdkForNative-4-*.zip
 /c
 /cg
 /.vscode/launch.json
+
+# The log file and other misc things
+log.txt
+errors.txt
+traceback.txt
+files.txt
